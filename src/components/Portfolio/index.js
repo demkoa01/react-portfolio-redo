@@ -8,7 +8,6 @@ function Portfolio() {
 			description:
 				'Mock up inventory site for a small company that has multiple locations. With this site, the employee can check other stores to refer guests to get their equipment.',
 			image: 'All-Star-sporting-goods.jpg',
-			technologies: ['HTML/CSS','Javascript'],
 			github: 'https://github.com/P3T2-Realty-Rogues/living-real',
 			deployed: 'https://cryptic-sea-45670.herokuapp.com/',
 		},
@@ -17,7 +16,6 @@ function Portfolio() {
 			description:
 				'Budget tracker to help the user keep track of their expenses. This application works and saves data if the user is offline as well.',
 			image: 'budget-tracker.jpg',
-			technologies: ['HTML/CSS','Javascript'],
 			github: 'https://github.com/demkoa01/budget-tracker',
 			deployed: 'https://evening-earth-88072.herokuapp.com/',
 		},
@@ -26,7 +24,6 @@ function Portfolio() {
 			description:
 				'Weather application that can report current weather in any city, share the 5 day forecase and save your previously searched cities.',
 			image: 'weather-dash.jpg',
-			technologies: ['HTML/CSS','Javascript'],
 			github: 'https://github.com/demkoa01/Weather-Dashboard',
 			deployed: 'https://demkoa01.github.io/Weather-Dashboard/',
 		},
@@ -35,7 +32,6 @@ function Portfolio() {
 			description:
 				'Web API application that offers the user movie suggestions and dinner suggestions based based off a single ingredient and the users movie genre preference.',
 			image: 'food-and-flick.jpg',
-			technologies: ['HTML/CSS','Javascript'],
 			github: 'https://github.com/brandonespencer/Food-and-a-Flick',
 			deployed: 'https://brandonespencer.github.io/Food-and-a-Flick/',
 		},
@@ -44,16 +40,14 @@ function Portfolio() {
 			description:
 				'Javascript quiz to test the users knowledge on the coding language.',
 			image: 'java-quiz.jpg',
-			technologies: ['HTML/CSS','Javascript'],
 			github: 'https://github.com/demkoa01/JavaScrpit-Quiz',
 			deployed: 'https://demkoa01.github.io/JavaScrpit-Quiz/',
 		},
 		{
 			name: 'Tech Blog',
 			description:
-				'Blog where users can post their thoughts on all things coding and whaterever else they want.',
+				'>Blog where users can post their thoughts on all things coding and whaterever else they want.',
 			image: 'tech-blog.jpg',
-			technologies: ['HTML/CSS','Javascript'],
 			github: 'https://github.com/demkoa01/Tech-Blog',
 			deployed: 'https://obscure-earth-61012.herokuapp.com/',
 		}

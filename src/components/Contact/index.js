@@ -51,7 +51,7 @@ function Contact() {
 				<h2 className="page-header">Contact Me</h2>
 			</div>
 			<div>
-				<form id="contact-form" className="center">
+				<form id="contact-form">
 					<div>
 						<label htmlFor="Name">Name:</label>
 						<br></br>
