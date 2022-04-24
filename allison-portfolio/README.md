@@ -47,7 +47,9 @@
 ### - Javascript
 ### - CSS Styling
 
-## Screenshot
+## Screenshot:
+![screenshot](https://user-images.githubusercontent.com/93881224/164997143-9c91684e-6a5b-4317-83cb-38f33a7583cb.JPG)
+
 
 # Getting Started with Create React App
 
