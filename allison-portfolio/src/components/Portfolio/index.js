@@ -7,7 +7,7 @@ function Portfolio() {
 			name: 'All-Star Sporting Goods',
 			description:
 				'Mock up inventory site for a small company that has multiple locations. With this site, the employee can check other stores to refer guests to get their equipment.',
-			image: 'All-Star-sporting-goods.jpeg',
+			image: 'All-Star-sporting-goods.jpg',
 			github: 'https://github.com/P3T2-Realty-Rogues/living-real',
 			deployed: 'https://cryptic-sea-45670.herokuapp.com/',
 		},
@@ -15,7 +15,7 @@ function Portfolio() {
 			name: 'Budget Tracker',
 			description:
 				'Budget tracker to help the user keep track of their expenses. This application works and saves data if the user is offline as well.',
-			image: 'budget-tracker.jpeg',
+			image: 'budget-tracker.jpg',
 			github: 'https://github.com/demkoa01/budget-tracker',
 			deployed: 'https://evening-earth-88072.herokuapp.com/',
 		},
@@ -23,7 +23,7 @@ function Portfolio() {
 			name: 'Weather Dashboard',
 			description:
 				'Weather application that can report current weather in any city, share the 5 day forecase and save your previously searched cities.',
-			image: 'weather-dash.jpeg',
+			image: 'weather-dash.jpg',
 			github: 'https://github.com/demkoa01/Weather-Dashboard',
 			deployed: 'https://demkoa01.github.io/Weather-Dashboard/',
 		},
@@ -31,7 +31,7 @@ function Portfolio() {
 			name: 'Food and a Flick',
 			description:
 				'Web API application that offers the user movie suggestions and dinner suggestions based based off a single ingredient and the users movie genre preference.',
-			image: 'food-and-flick.jpeg',
+			image: 'food-and-flick.jpg',
 			github: 'https://github.com/brandonespencer/Food-and-a-Flick',
 			deployed: 'https://brandonespencer.github.io/Food-and-a-Flick/',
 		},
@@ -39,7 +39,7 @@ function Portfolio() {
 			name: 'Javascript Quiz',
 			description:
 				'Javascript quiz to test the users knowledge on the coding language.',
-			image: 'wjava-quiz.jpeg',
+			image: 'java-quiz.jpg',
 			github: 'https://github.com/demkoa01/JavaScrpit-Quiz',
 			deployed: 'https://demkoa01.github.io/JavaScrpit-Quiz/',
 		},
@@ -47,7 +47,7 @@ function Portfolio() {
 			name: 'Tech Blog',
 			description:
 				'>Blog where users can post their thoughts on all things coding and whaterever else they want.',
-			image: 'tech-blog.jpeg',
+			image: 'tech-blog.jpg',
 			github: 'https://github.com/demkoa01/Tech-Blog',
 			deployed: 'https://obscure-earth-61012.herokuapp.com/',
 		}
