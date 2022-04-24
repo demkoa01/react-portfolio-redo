@@ -1,9 +1,12 @@
 # REACT PORTFOLIO
 
 ### URL:
-### https://github.com/demkoa01/react-portfolio-redo/tree/main/allison-portfolio
+### 
+
+### When deploying with npm run deploy, I get error that react was conflicted between '.eslintrc.js' and 'BaseConfig'. I have been unable to solve this error over the past weekend. 
 
 ### GitHub Repo:
+### https://github.com/demkoa01/react-portfolio-redo/tree/main/allison-portfolio
 
 ## Description
 ### The purpose of this project is to create a portfolio to showcase the skills learned in UI/UX bootcamp as well as share projects, resume, & set myself apart from other developers to employers. xc 
@@ -48,6 +51,7 @@
 ### - CSS Styling
 
 ## Screenshot
+![screenshot](https://user-images.githubusercontent.com/93881224/164998460-1e33bbd7-4086-4ba1-a551-b519896b8968.JPG)
 
 # Getting Started with Create React App
 
