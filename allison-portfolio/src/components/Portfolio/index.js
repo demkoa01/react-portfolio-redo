@@ -56,14 +56,6 @@ function Portfolio() {
 			technologies: ['HTML/CSS','Javascript'],
 			github: 'https://github.com/demkoa01/Tech-Blog',
 			deployed: 'https://obscure-earth-61012.herokuapp.com/',
-		},
-		{
-			name: 'Sweet Treats',
-			description:
-				"Sweet Treats is an online shop where lovers of baked goods can peruse through vairous desserts, shop for desserts or create custom dessert orders with the Sweet Treats bakery for their next big event. New shoppers are able to signup while returning customers can simply login with an email & password to place orders. The customer's cart can be viewed and updated easily and when a customer is signed into the site, they are able to securely checkout using Stripe.",
-			image: 'sweet-treat.jpg',
-			github: 'https://github.com/demkoa01/react-portfolio-redo',
-			deployed: 'https://thawing-tor-90968.herokuapp.com/',
 		}
 	];
 
